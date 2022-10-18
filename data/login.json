@@ -1,0 +1,9 @@
+{
+  "code":200,
+  "message":"请求成功",
+  "data":{
+    "token":"ooooooooooooooooo",
+    "portrait":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.wmzhe.top%2Fuploadimg%2Fpc%2F26%2F26f3%2F26f344741948e2fb019089f99cc677fb.jpg&refer=http%3A%2F%2Fimg.wmzhe.top&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1668583031&t=4cd17b080946f072edadabd5f1dbc9c1",
+    "nickname":"测试账号"
+  }
+}
